@@ -37,7 +37,10 @@ def monopoly_with_third_tier
 	      :four_piece_owned => 200
 	    },
 	    :names => {
-	      
+	      :reading_railroad => "$100",
+	      :reading_railroad => "$200",
+	      :reading_railroad => "$300",
+	      :reading_railroad => "$400"
 	    }
 	  }
 	}
