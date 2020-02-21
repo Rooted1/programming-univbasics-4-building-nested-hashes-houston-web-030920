@@ -38,7 +38,7 @@ def monopoly_with_third_tier
 	    },
 	    :names => {
 	      :reading_railroad => "$100",
-	      :reading_railroad => "$200",
+	      :pennsylvania_railroad => "$200",
 	      :reading_railroad => "$300",
 	      :reading_railroad => "$400"
 	    }
